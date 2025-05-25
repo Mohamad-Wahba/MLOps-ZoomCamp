@@ -1,0 +1,11 @@
+mlflow
+jupyter
+scikit-learn
+pandas
+seaborn
+hyperopt
+xgboost
+fastparquet
+boto3
+numexpr>=2.8.4
+bottleneck>=1.3.6
